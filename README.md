@@ -124,3 +124,7 @@ src/main/java/com/semih/modbot
 | `INTENT` hatası | Kurulumdaki iki intent'i aç. |
 | `!` komutlarına cevap vermiyor | MESSAGE CONTENT INTENT kapalı ya da komutu yazan yetkili değil. Başka birinin de kullanması için `sahip.id=` satırına ID'sini yaz. |
 | "rolü benim rolümden yüksek" | Bot rolünü roller listesinde yukarı taşı. |
+
+## Lisans
+
+[MIT](LICENSE) © 2026 Semih Eren
