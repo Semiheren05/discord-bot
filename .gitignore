@@ -1,0 +1,13 @@
+# Token içerir, asla paylaşma / GitHub'a yükleme
+config.properties
+ModBot.jar
+
+# Botun çalışırken yazdığı veriler
+data/
+
+# Derleme çıktıları
+build/
+.gradle/
+*.class
+.idea/
+*.iml
